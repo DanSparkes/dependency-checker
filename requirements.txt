@@ -62,7 +62,7 @@ psycopg2==2.7.4
 psycopg2-binary==2.7.4
 pusher===3.0.0
 pycparser==2.20
-pycryptodome==3.6.1
+pycryptodome==3.10.1
 pyfcm==1.5.1
 Pygments==2.2.0
 PyJWT==1.6.1
