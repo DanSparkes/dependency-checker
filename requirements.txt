@@ -54,7 +54,7 @@ nest-asyncio==1.4.3
 newrelic==5.14.0.142
 paramiko==2.7.1
 pdfminer.six==20170720
-pipenv==2018.7.1
+pipenv==2020.11.15
 postmarker==0.15.0
 probableparsing==0.0.1
 promise==2.3
