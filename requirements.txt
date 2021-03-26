@@ -1,5 +1,5 @@
 APScheduler==3.7.0
-boto3==1.17.29
+boto3==1.17.37
 beautifulsoup4==4.9.3
 dj-database-url==0.5.0
 Django==3.1.7
@@ -10,7 +10,7 @@ django-graphql-jwt==0.3.1
 django-rest-auth==0.9.5
 django-rest-passwordreset==1.1.0
 django-tenant-schemas==1.9.0
-djangorestframework==3.12.2
+djangorestframework==3.12.4
 djangorestframework-jwt==1.11.0
 djangorestframework-simplejwt==4.6.0
 djangorestframework-xml==2.0.0
@@ -22,7 +22,7 @@ graphql-core==2.3.2
 graphql-relay==2.0.1
 gunicorn==20.0.4
 keen==0.7.0
-lxml==4.6.2
+lxml==4.6.3
 newrelic==6.2.0.156
 paramiko==2.7.2
 postmarker==0.17.1
@@ -39,11 +39,13 @@ rq==1.7.0
 sendgrid==6.6.0
 squareconnect==2.20190724.1
 stripe==2.56.0
-twilio==6.54.0
+twilio==6.55.0
 usaddress==0.5.10
 whitenoise==5.2.0
+stringcase==1.2.0
 
 colorama==0.4.4
-Faker==6.6.1
+Faker==6.6.3
 pytest-django==4.1.0
 pytest-cov==2.11.1
+debugpy==1.2.1
